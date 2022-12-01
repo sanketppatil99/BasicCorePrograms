@@ -6,8 +6,8 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            PowerofTwo.powerofTwo();
-           
+            HarmonicNumber.harmonicNumber();
+
 
         }
     }
