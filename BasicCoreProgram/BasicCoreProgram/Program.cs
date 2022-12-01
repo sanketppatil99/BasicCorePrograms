@@ -8,7 +8,7 @@ namespace BasicCoreProgram
         public static void Main(string[] args)
         {
 
-            EvenorOdd.evenOrOdd();
+            VowelAndConstant.CheckTheTypeOfCharacter();
 
         }
     }
