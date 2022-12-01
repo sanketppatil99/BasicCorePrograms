@@ -8,7 +8,7 @@ namespace BasicCoreProgram
         public static void Main(string[] args)
         {
 
-            PrimeFactorision.primeFactor();
+            QuotientRemainder.checkQuotientRemainder();
 
         }
     }
