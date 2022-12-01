@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BasicCorePrograms;
+using System;
 
 namespace BasicCoreProgram
 {
@@ -6,8 +7,8 @@ namespace BasicCoreProgram
     {
         public static void Main(string[] args)
         {
-            HarmonicNumber.harmonicNumber();
 
+            PrimeFactorision.primeFactor();
 
         }
     }
