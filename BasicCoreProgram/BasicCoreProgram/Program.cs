@@ -8,7 +8,7 @@ namespace BasicCoreProgram
         public static void Main(string[] args)
         {
 
-            QuotientRemainder.checkQuotientRemainder();
+            SwapTwoNumbers.SwapNumber();
 
         }
     }
